@@ -1,5 +1,12 @@
 .imgContainer {
+    position: relative;
     width: 100px;
     height: 100px;
     padding-bottom: 50px;
+}
+
+.selectedCat {
+    position: absolute;
+    top: 0;
+    right: -40px;
 }
